@@ -36,9 +36,9 @@ To run the above code, we will need to set up a few things on your machine. Here
 
 ### Important Notes
 
-- # XPath: Ensure the XPaths used in the script are correct and up-to-date. If the website's structure changes, you may need to update these XPaths.
-- # Website Accessibility: The script attempts to interact with `https://www.threads.net/login`. Ensure this URL is accessible and the elements exist as expected.
-- # Delays: The script uses `time.sleep()` for delays. You may adjust these delays based on your internet speed and page load times.
+- **XPath**: Ensure the XPaths used in the script are correct and up-to-date. If the website's structure changes, you may need to update these XPaths.
+- **Website Accessibility**: The script attempts to interact with `https://www.threads.net/login`. Ensure this URL is accessible and the elements exist as expected.
+- **Delays**: The script uses `time.sleep()` for delays. You may adjust these delays based on your internet speed and page load times.
 
 ### Dependencies
 
