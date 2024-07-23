@@ -51,7 +51,7 @@ Here is a summary of the required dependencies:
 
 ### Command to Install Dependencies
 
-# pip install selenium webdriver-manager
+pip install selenium webdriver-manager
 
 
 After ensuring all the above steps and dependencies are in place, you should be able to run the script successfully.
